@@ -1,5 +1,5 @@
-# TikTokSphere
-USchnell finden, Schnell filmen, Schnell wachsen
+# __TikTokSphere__
+## Schnell finden, Schnell filmen, Schnell wachsen
 
 The first Open Source project for the collaboration of bloggers of different directions.
 
